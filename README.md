@@ -6,7 +6,8 @@
 1.自行准备数据，放到```data```目录中，已给出示例  
 2.执行```train.py```开始训练  
 3.训练的模型保存在```model_data```目录中  
-4.执行```predict.py```进行测试  
+4.执行```predict.py```进行测试，测试的结果在```data/test/predict```中  
+
 # 环境
 - Anaconda + windows10 + pytorch 1.9 + cuda 11 以及其它必须的库
 # 其它声明
